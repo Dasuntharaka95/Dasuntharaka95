@@ -1,4 +1,4 @@
-<img class="lp-image-react w-c901fea2-03c8-f401-156d-db0f2b0b6eb1 css-9vho76 lazyload" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w500" data-src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4" data-image-upload-source="builder3" alt="Custom Software Development Houston" style="width:100%">
+<img width="500" height="500" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" class="attachment-large size-large wp-image-3261" alt="" loading="lazy">
 <h1 align="center">Hi 👋, I'm Dasun Tharaka</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
