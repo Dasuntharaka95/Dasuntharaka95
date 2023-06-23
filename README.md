@@ -1,4 +1,4 @@
-https://tenor.com/en-GB/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300
+<img src="https://tenor.com/en-GB/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300">
 <h1 align="center">Hi 👋, I'm Dasun Tharaka</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
