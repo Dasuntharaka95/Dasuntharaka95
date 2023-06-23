@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="21768300" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300">Kroppa Digital Sticker</a>from <a href="https://tenor.com/search/kroppa-stickers">Kroppa Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+https://tenor.com/en-GB/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300
 <h1 align="center">Hi 👋, I'm Dasun Tharaka</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
