@@ -1,4 +1,4 @@
-<img src="https://tenor.com/en-GB/view/develop-web-design-software-web-designer-gif-24999202" alt="Flowers in Chania">
+<img class="lp-image-react w-c901fea2-03c8-f401-156d-db0f2b0b6eb1 css-9vho76 lazyload" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w500" data-src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4" data-image-upload-source="builder3" alt="Custom Software Development Houston" style="width:100%">
 <h1 align="center">Hi 👋, I'm Dasun Tharaka</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
