@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="16128024" data-share-method="host" data-aspect-ratio="1.50235" data-width="100%"><a href="https://tenor.com/view/test-gadgets-computer-technology-screen-gif-16128024">Test Gadgets Sticker</a>from <a href="https://tenor.com/search/test-stickers">Test Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/en-GB/view/test-gadgets-computer-technology-screen-gif-16128024">
 <h1 align="center">Hi 👋, I'm Dasun Tharaka</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
