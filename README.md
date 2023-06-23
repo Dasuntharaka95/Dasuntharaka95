@@ -1,4 +1,4 @@
-<img src="https://tenor.com/en-GB/view/test-gadgets-computer-technology-screen-gif-16128024">
+<img src="img_chania.jpg" alt="Flowers in Chania">
 <h1 align="center">Hi 👋, I'm Dasun Tharaka</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
