@@ -1,4 +1,4 @@
-<div style="display:flex justyfy-content:center "><img width="500" height="500" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif"></div>
+<div style="display: flex; justify-content: center;"><img width="250" height="250" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif"></div>
 <h1 align="center">Hi 👋, I'm Dasun Tharaka</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
